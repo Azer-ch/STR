@@ -1,0 +1,3 @@
+/home/azer/gl4/str/tp1/cmake-build-debug/CMakeFiles/tp1.dir
+/home/azer/gl4/str/tp1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/azer/gl4/str/tp1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
